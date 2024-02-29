@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/3856-arpit-radadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="3856-arpit-radadiya" height="30" width="40" /></a>
 <a href="https://twitter.com/arpit_radadiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_radadiya_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-radadiya-40b799289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpit-radadiya-40b799289" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arpit-radadiya-40b799289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-radadiya-40b799289" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22876904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22876904" height="30" width="40" /></a>
 <a href="https://instagram.com/a_k_radadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_k_radadiya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/a_k_radadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_k_radadiya" height="30" width="40" /></a>
@@ -27,4 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akradadiya28&show_icons=true&locale=en&layout=compact" alt="akradadiya28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akradadiya28&" alt="akradadiya28" /></p>
-

@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/arpit_radadiya_" target="blank"><img src="https://img.shields.io/twitter/follow/arpit_radadiya_?logo=twitter&style=for-the-badge" alt="arpit_radadiya_" /></a> </p>
 
-- 🔭 I’m currently working on [Admin Panel](https://github.com/akradadiya28/Admin_Pannel)
+- 🔭 I’m currently working on Portfolio Website...
 
-- 🌱 I’m currently learning **Jquery**
+- 🌱 I’m currently learning **BOOTSTRAP**
 
 - 📫 How to reach me **akradadiya28@gmail.com**
 

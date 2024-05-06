@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Portfolio Website...
 
-- 🌱 I’m currently learning **BOOTSTRAP**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **akradadiya28@gmail.com**
 

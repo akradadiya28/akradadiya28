@@ -8,13 +8,6 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akradadiya28&label=Profile%20views&color=0e75b6&style=flat" alt="akradadiya28" />
-  <a href="https://twitter.com/arpit_radadiya_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/arpit_radadiya_?logo=twitter&style=for-the-badge" alt="arpit_radadiya_" />
-  </a>
-</p>
-
 ## 📋 Summary
 
 Passionate about building dynamic and responsive web applications, I am currently pursuing a Bachelor of Computer Applications (BCA) while honing my skills as a full-stack developer. I have a solid foundation in both front-end and back-end technologies, making me proficient in designing and developing full-scale applications from concept to deployment.
@@ -35,7 +28,7 @@ Passionate about building dynamic and responsive web applications, I am currentl
 
 ## 💼 Professional Experience
 
-### Full Stack Developer Intern
+### Full Stack Developer
 **Weingenious Technocrats** | October 2024 - Present
 
 - Collaborated with senior developers to design, develop, and implement scalable web applications
@@ -116,5 +109,5 @@ A Blog Post Panel with user authentication and management features:
 
 ---
 <p align="center">
-  Portfolio: <a href="https://arpitradadiyaportfolio.com" target="_blank">arpitradadiyaportfolio.com</a>
+  Portfolio: <a href="https://akradadiya.netlify.app" target="_blank">arpitradadiyaportfolio.com</a>
 </p>

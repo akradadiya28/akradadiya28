@@ -57,23 +57,6 @@ Passionate about building dynamic and responsive web applications, I am currentl
 - MongoDB Compass, Git, Github
 - Responsive Web Design
 
-## 🚀 Projects
-
-### Admin Panel Project
-A Blog Post Panel with user authentication and management features:
-- User registration and authentication
-- Blog post CRUD operations
-- Image upload functionality
-- Built with full-stack JavaScript framework
-
-## 📚 Courses & Certifications
-
-- TechWar 2024
-- Frontend Code Challenge
-- JavaScript Course With Certification: Unlocking the Power of JavaScript
-- TechWar 2023
-
-
 ## 🌐 Connect With Me
 
 <p align="left">

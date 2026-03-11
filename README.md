@@ -1,96 +1,154 @@
-# Hi 👋, I'm Arpit Radadiya
+# Arpit Radadiya
 
-<div align="center">
-  <h3>Full Stack Developer</h3>
-  <p>
-    <a href="mailto:akradadiya28@gmail.com">📧 akradadiya28@gmail.com</a> •
-    📍 Surat, Gujarat
-  </p>
-</div>
+Full Stack Developer | MERN Stack | Real-Time Applications | SaaS Builder
 
-## 📋 Summary
-
-Passionate about building dynamic and responsive web applications, I am currently pursuing a Bachelor of Computer Applications (BCA) while honing my skills as a full-stack developer. I have a solid foundation in both front-end and back-end technologies, making me proficient in designing and developing full-scale applications from concept to deployment.
-
-## 🎓 Education
-
-- **Swarnim Startup & Innovation University** | Gandhinagar, Gujarat
-  - Bachelor's Degree in Computer Science (B.C.A)
-  - Expected graduation: 2026
-
-- **Shree Kumar Vidhyalaya** | Rajkot, Gujarat
-  - HSC - 76%
-  - 2022 - 2023
-
-- **Shree Aruni Saishanik Sankul** | Rajkot, Gujarat
-  - SSC - 82%
-  - 2020 - 2021
-
-## 💼 Professional Experience
-
-### Full Stack Developer
-**Weingenious Technocrats** | October 2024 - Present
-
-- Collaborated with senior developers to design, develop, and implement scalable web applications
-- Utilized technologies such as HTML5, CSS3, JavaScript, React.js, Node.js, and MongoDB
-- Assisted in the integration of RESTful APIs for seamless client-side and server-side systems
-- Participated in team code reviews and contributed to best practices for code quality
-
-## 🛠️ Technical Skills
-
-### Frontend
-- HTML5, CSS3, Bootstrap
-- Tailwind, React.js, Redux
-- jQuery, SASS
-
-### Backend
-- Node.js, Express.js
-- RESTful APIs
-- MongoDB, PostgreSQL
-
-### Programming
-- C, C++, JavaScript
-- Data Structures & Algorithms (DSA) with C++
-
-### Tools & Others
-- VS Code, Postman
-- MongoDB Compass, Git, Github
-- Responsive Web Design
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://codepen.io/3856-arpit-radadiya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="3856-arpit-radadiya" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/arpit_radadiya_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_radadiya_" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/arpit-radadiya-40b799289" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-radadiya-40b799289" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/22876904" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22876904" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/a_k_radadiya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_k_radadiya" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/a_k_radadiya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="a_k_radadiya" height="30" width="40" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akradadiya28&show_icons=true&locale=en&layout=compact&theme=dark" alt="akradadiya28" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akradadiya28&theme=dark" alt="akradadiya28" />
-</p>
+Surat, Gujarat, India
+Email: [akradadiya28@gmail.com](mailto:akradadiya28@gmail.com)
 
 ---
-<p align="center">
-  Portfolio: <a href="https://akradadiya.netlify.app" target="_blank">arpitradadiyaportfolio.com</a>
-</p>
+
+## About Me
+
+I am a Full Stack Developer specializing in building scalable web applications, SaaS platforms, and real-time systems. I work across the entire stack using modern JavaScript technologies including React, Next.js, Node.js, and MongoDB.
+
+Currently, I am pursuing a Bachelor of Computer Applications (BCA) while working as a Full Stack Developer. I enjoy designing efficient backend systems, creating clean UI experiences, and building production-ready applications.
+
+My main focus areas include:
+
+* Full Stack Web Development
+* Real-Time Applications
+* SaaS Platforms
+* Scalable Backend Architecture
+* Performance Optimization
+* Data Structures and Algorithms
+
+---
+
+## Tech Stack
+
+### Frontend
+
+React.js
+Next.js
+Tailwind CSS
+Bootstrap
+HTML5
+CSS3
+JavaScript (ES6+)
+Redux
+
+### Backend
+
+Node.js
+Express.js
+GraphQL APIs
+REST APIs
+Socket.IO
+
+### Databases
+
+MongoDB
+PostgreSQL
+
+### Programming Languages
+
+JavaScript
+C++
+C
+
+### Tools & Technologies
+
+Git
+GitHub
+Postman
+MongoDB Compass
+VS Code
+
+---
+
+## Professional Experience
+
+### Full Stack Developer
+
+Weingenious Technocrats
+October 2024 – Present
+
+* Developing scalable web applications using React, Node.js, and MongoDB
+* Building REST APIs and backend services using Node.js and Express
+* Working with real-time systems using Socket.IO
+* Collaborating with team members on application architecture and performance improvements
+* Participating in code reviews and maintaining code quality standards
+
+---
+
+## Projects
+
+### Real-Time Chat Application
+
+A full-stack real-time messaging application built with Socket.IO and Node.js.
+
+Key Features:
+
+* Real-time messaging
+* Online/offline user status
+* WebSocket based communication
+* Scalable backend architecture
+
+### SaaS Web Applications
+
+Development of production-ready SaaS platforms including dashboards, API integrations, and backend systems.
+
+Key Features:
+
+* Scalable backend APIs
+* Role-based dashboards
+* Authentication systems
+* Data management
+
+---
+
+## Education
+
+Bachelor of Computer Applications (BCA)
+Swarnim Startup & Innovation University
+Expected Graduation: 2026
+
+---
+
+## Coding Practice
+
+I actively practice Data Structures and Algorithms to improve problem-solving skills.
+
+Primary language: C++
+
+Platforms:
+LeetCode
+GeeksforGeeks
+
+---
+
+## Connect With Me
+
+LinkedIn
+https://linkedin.com/in/arpitradadiya
+
+GitHub
+https://github.com/akradadiya28
+
+Portfolio
+https://akradadiya.netlify.app
+
+LeetCode
+https://www.leetcode.com/a_k_radadiya
+
+---
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akradadiya28\&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akradadiya28\&show_icons=true)
+
+---
+
+Building scalable systems, real-time applications, and modern web platforms.

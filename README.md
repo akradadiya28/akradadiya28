@@ -136,7 +136,7 @@ GitHub
 https://github.com/akradadiya28
 
 Portfolio
-https://akradadiya.netlify.app
+https://arpitradadiya.netlify.app
 
 LeetCode
 https://www.leetcode.com/a_k_radadiya
